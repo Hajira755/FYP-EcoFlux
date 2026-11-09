@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_app_id" translatable="false">1:YOUR_PROJECT_NUMBER:android:YOUR_APP_ID</string>
+    <string name="google_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="firebase_database_url" translatable="false">https://YOUR_PROJECT_ID.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">YOUR_SENDER_ID</string>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string>
+    <string name="project_id" translatable="false">YOUR_PROJECT_ID</string>
+    <string name="storage_bucket" translatable="false">YOUR_PROJECT_ID.appspot.com</string>
+</resources>
